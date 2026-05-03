@@ -2,3 +2,6 @@ streamlit
 pandas
 openpyxl
 numpy
+math
+libreria_funciones_proyecto1
+libreria_clases_proyecto1
